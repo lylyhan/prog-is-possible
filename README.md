@@ -1,1 +1,1 @@
-This is the first line of the readme
+hw-01 folder is the text adventure homework
